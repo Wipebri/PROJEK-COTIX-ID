@@ -1,5 +1,5 @@
 # PROJEK-COTIX-ID
-COTIX ID adalah sistem pembelian tiket konser sederhana yang digunakan untuk mempermudah penyelenggara konser musik untuk menjual tiketnya dan mempermudah penikmat konser untuk menemukan dan membeli tiket konser yang di inginkan.
+COTIX ID adalah sistem pembelian tiket konser sederhana yang digunakan untuk mempermudah penyelenggara konser musik untuk menjual tiketnya dan mempermudah penikmat konser untuk menemukan serta membeli tiket konser yang di inginkan.
 ## PROFIL
 Nama : DWI PEBRIYANTO PRADANA
 
