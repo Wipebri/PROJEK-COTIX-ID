@@ -7,13 +7,24 @@ NIM : 2409116012
 UNIVERSITAS MULAWARMAN PROGRAM STUDI SISTEM INFORMASI
 
 ## FLOWCHART
-### Menu Utama
 <details>
   <summary>1. Flowchart Menu Utama</summary>
-  <img src="https://github.com/user-attachments/assets/e796faa9-b019-4052-bed2-02ead4ac30d1"alt="">
+  <img src="https://github.com/user-attachments/assets/eaa88c0b-b79f-4896-a9c1-386abf040dcd"alt="">
 </details>
 
 <details>
-  <summary>2. Flowchart Menu Admin</summary>
-  <img src="https://github.com/user-attachments/assets/48cf2c19-29f4-4688-95fb-4560cd0b02c7"alt="">
+  <summary>2. Flowchart Menu Registrasi</summary>
+  <img src="https://github.com/user-attachments/assets/fb12b749-b94c-4eca-b139-a13715d5618a"alt="">
 </details>
+
+<details>
+  <summary>3. Flowchart Menu Admin</summary>
+  <img src="https://github.com/user-attachments/assets/feb8081d-2312-49fe-8a52-bfc49b62f77e"alt="">
+</details>
+
+<details>
+  <summary>4. Flowchart Menu Tambahan Admin</summary>
+  <img src="https://github.com/user-attachments/assets/94121e1a-95c2-4998-b9f7-801a73b1cc27"alt="">
+</details>
+
+
