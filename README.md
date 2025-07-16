@@ -27,4 +27,13 @@ UNIVERSITAS MULAWARMAN PROGRAM STUDI SISTEM INFORMASI
   <img src="https://github.com/user-attachments/assets/94121e1a-95c2-4998-b9f7-801a73b1cc27"alt="">
 </details>
 
+<details>
+  <summary>5. Flowchart Menu User</summary>
+  <img src=" https://github.com/user-attachments/assets/40ec3dfc-86f1-482d-895e-6b4c2c386165"alt="">
+</details>
+
+<details>
+  <summary>6. Flowchart Menu Tambahan User</summary>
+  <img src="https://github.com/user-attachments/assets/a93cef62-ffa0-48a0-a0d1-d9796f841d3f"alt="">
+</details>
 
